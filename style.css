@@ -6,6 +6,11 @@
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
 
+#foto {
+    
+    border-radius: 100%;
+}
+
 body {
     background: turquoise;
     padding: 5px;
@@ -32,4 +37,8 @@ body {
 
 ul {
     
+}
+
+.list {
+    font-size: 20px;
 }
